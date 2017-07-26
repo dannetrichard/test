@@ -1,0 +1,15 @@
+{
+    "name": "dannetrichard/test",
+    "description": "my first test",
+    "type": "library",
+    "require": {
+        "php": "^7.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "dannetrichard",
+            "email": "jinjun0927@126.com"
+        }
+    ]
+}
